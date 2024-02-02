@@ -1,0 +1,31 @@
+{
+  "artists": [
+    { "id": 1, "name": "Foo Fighters", "genre": "Rock", "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf15" },
+    { "id": 2, "name": "Michael Jackson", "genre": "Pop", "urlImg": "https://i.scdn.co/image/ab676161000051740e08ea2c4d6789fbf5cbe0aa" },
+    { "id": 3, "name": "Emicida", "genre": "Hip Hop", "urlImg": "https://i.scdn.co/image/ab67616100005174908b4b4bc90e1518b68b4068" },
+    { "id": 4, "name": "Chitãozinho e Xororó", "genre": "Sertanejo", "urlImg": "https://i.scdn.co/image/ab676161000051744606c59411c57f7b49588be4" },
+    { "id": 5, "name": "Mc Coringa", "genre": "Funk", "urlImg": "https://i.scdn.co/image/ab67616d00001e02fe8f6dd361ad0f12b88c7f56" },
+    { "id": 6, "name": "Arlindo Cruz", "genre": "Samba", "urlImg": "https://i.scdn.co/image/ab67616100005174181873f93056642d7b340839" },
+    { "id": 7, "name": "Caetano Veloso", "genre": "MPB", "urlImg": "https://i.scdn.co/image/ab67616100005174e98de50f36cf1aa4bf047757" },
+    { "id": 8, "name": "Anitta", "genre": "Pop", "urlImg": "https://i.scdn.co/image/ab6761610000f1784df3ca51959357284bbb9a5e" },
+    { "id": 9, "name": "Major RD", "genre": "Rap", "urlImg": "https://i.scdn.co/image/ab6761610000f1782218991c713ff16502c42a2d" },
+    { "id": 10, "name": "Tz da Coronel", "genre": "Rap", "urlImg": "https://i.scdn.co/image/ab6761610000f1781b387bdd965c5d60eeb7a176"},
+    { "id": 11, "name": "BK", "genre": "Hip Hop", "urlImg": "https://i.scdn.co/image/ab6761610000f178ffbb9a9d1d157a08ba59082d" },
+    { "id": 12, "name": "Baco Exu do Blues", "genre": "Rap", "urlImg": "https://i.scdn.co/image/ab6761610000f178450994398f9bd7aa598bf3b6" },
+    { "id": 13, "name": "BTS", "genre": "K-pop", "urlImg": "https://i.scdn.co/image/ab6761610000f178d642648235ebf3460d2d1f6a" },
+    { "id": 14, "name": "Pericles", "genre": "Samba", "urlImg": "https://i.scdn.co/image/ab6761610000f17857adfef1deb64efe407c2a04" },
+    { "id": 15, "name": "Thiaguinho", "genre": "Pagode", "urlImg": "https://i.scdn.co/image/ab6761610000f1785bc75cc714e5596f738521de" },
+    { "id": 16, "name": "Matuê", "genre": "Rap", "urlImg": "https://i.scdn.co/image/ab6761610000f178f1866b2284e5dbdae69f523e" },
+    { "id": 17, "name": "KayBlack", "genre": "Rap", "urlImg":"https://i.scdn.co/image/ab6761610000f17848d62acd2e6408096141a088" },
+    { "id": 18, "name": "Travis Scott", "genre": "Hip Hop", "urlImg":"https://i.scdn.co/image/ab6761610000f17819c2790744c792d05570bb71" },
+    { "id": 19, "name": "Chefin", "genre": "Rap", "urlImg":"https://i.scdn.co/image/ab6761610000f178e262f788c4278d0b75d8e9a0" },
+    { "id": 20, "name": "Orochi", "genre": "Rap", "urlImg":"https://i.scdn.co/image/ab6761610000f17898b030ca4984c98d53ec8762" },
+    { "id": 21, "name": "Veigh", "genre": "Hip Hop", "urlImg":"https://i.scdn.co/image/ab6761610000f178e32110a6a91105938bb4e026" },
+    { "id": 21, "name": "Caio Luccas", "genre": "Rap", "urlImg":"https://i.scdn.co/image/ab6761610000f1784ade684addd5504b740ba7d2" },
+    { "id": 22, "name": "Poze do Rodo", "genre": "Rap", "urlImg":"https://i.scdn.co/image/ab6761610000f1786bb2891aba26ae4298634e4b" },
+    { "id": 23, "name": "Leall", "genre": "Rap", "urlImg":"https://i.scdn.co/image/ab6761610000f178085f137f2b0440014fa5924e" },
+    { "id": 24, "name": "Bruno Mars", "genre": "Pop", "urlImg":"https://i.scdn.co/image/ab6761610000f178c36dd9eb55fb0db4911f25dd" },
+    { "id": 25, "name": "Zé Vaqueiro", "genre": "Forró", "urlImg":"https://i.scdn.co/image/ab6761610000f178b387679916bc17b17f1e868d" },
+    { "id": 25, "name": "João Gomes", "genre": "Forró", "urlImg":"https://i.scdn.co/image/ab6761610000f17814ecfcb0c1789141fa0b7f02" }
+  ]
+}
